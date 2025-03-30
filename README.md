@@ -14,7 +14,6 @@ This project is a Python-based API service that dynamically retrieves and execut
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 Install dependencies:
-
 bash
 Copy
 Edit
@@ -41,6 +40,7 @@ Edit
   "function": "open_calculator",
   "code": "Generated Python code for execution"
 }
+
 
 Future Enhancements
 Logging and monitoring for function executions
