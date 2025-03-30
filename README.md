@@ -13,21 +13,13 @@ This project is a Python-based API service that dynamically retrieves and execut
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-Install dependencies:
-bash
-Copy
-Edit
+   
+##Install dependencies:
 pip install -r requirements.txt
 Usage
 Start the API Server
-bash
-Copy
-Edit
 uvicorn api_service:app --reload
 Test with cURL
-bash
-Copy
-Edit
 curl -X POST "http://127.0.0.1:8000/execute" \
      -H "Content-Type: application/json" \
      -d "{\"prompt\": \"Open calculator\"}"
