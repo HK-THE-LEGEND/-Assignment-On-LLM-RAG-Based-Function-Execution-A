@@ -40,17 +40,7 @@ Edit
   "function": "open_calculator",
   "code": "Generated Python code for execution"
 }
-File Structure
-bash
-Copy
-Edit
-📂 project-root
-├── automation_functions.py  # Predefined automation functions
-├── function_retriever.py     # Function retrieval using RAG
-├── code_generator.py         # Dynamic code generation
-├── api_service.py            # FastAPI service
-├── requirements.txt          # Dependencies
-└── README.md                 # Project documentation
+
 Future Enhancements
 Logging and monitoring for function executions
 
