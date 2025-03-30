@@ -1,0 +1,399 @@
+2025-03-30 21:26:29,242 [INFO] Executing function: open_calculator
+2025-03-30 21:26:29,790 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 21:33:34,379 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 21:33:45,501 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 21:34:19,744 [INFO] Executing default function: run_command
+2025-03-30 21:34:19,744 [ERROR] Error executing run_command: run_command() missing 1 required positional argument: 'command'
+2025-03-30 21:34:31,735 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 21:34:34,038 [INFO] Executing default function: open_notepad
+2025-03-30 21:34:34,418 [INFO] Executed open_notepad successfully. Result: None
+2025-03-30 21:35:09,911 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 21:35:57,795 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 21:36:05,362 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 21:36:49,124 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 21:40:52,516 [INFO] Added custom function: hello_world
+2025-03-30 21:41:53,648 [INFO] Executing default function: run_command
+2025-03-30 21:41:53,648 [ERROR] Error executing run_command: run_command() missing 1 required positional argument: 'command'
+2025-03-30 21:42:04,978 [INFO] Executing default function: run_command
+2025-03-30 21:42:04,978 [ERROR] Error executing run_command: run_command() missing 1 required positional argument: 'command'
+2025-03-30 21:45:00,076 [ERROR] Function 'run_command' requires parameters. Cannot execute automatically.
+2025-03-30 21:45:37,919 [INFO] Executing default function: open_calculator
+2025-03-30 21:45:38,457 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 21:46:08,819 [INFO] Executing default function: open_calculator
+2025-03-30 21:46:09,281 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 21:50:17,826 [INFO] Function open_calculator requires 0 parameters.
+2025-03-30 21:50:17,826 [INFO] Executing default function: open_calculator without parameters
+2025-03-30 21:50:18,275 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 21:50:49,164 [INFO] Function open_calculator requires 0 parameters.
+2025-03-30 21:50:49,164 [INFO] Executing default function: open_calculator without parameters
+2025-03-30 21:50:49,620 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 21:50:56,303 [INFO] Function open_calculator requires 0 parameters.
+2025-03-30 21:50:56,303 [INFO] Executing default function: open_calculator without parameters
+2025-03-30 21:50:56,770 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 21:52:09,728 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:52:09,728 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:52:09,749 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:52:28,153 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:52:28,153 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:52:28,170 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:53:53,738 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:53:53,739 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:53:53,762 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:54:02,426 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:54:02,426 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:54:02,441 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:54:22,240 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:54:22,240 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:54:22,255 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:54:58,319 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:54:58,319 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:54:58,336 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:56:17,740 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:56:17,741 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:56:17,762 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:57:38,014 [INFO] Function run_command requires 1 parameters.
+2025-03-30 21:57:38,015 [INFO] Executing default function: run_command with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:57:38,037 [INFO] Executed run_command successfully. Result: Error executing command: 'Hello' is not recognized as an internal or external command,
+operable program or batch file.
+
+2025-03-30 21:59:51,421 [INFO] Function echo requires 1 parameters.
+2025-03-30 21:59:51,422 [INFO] Executing default function: echo with args: ['Hello from parameters!'] and kwargs: {}
+2025-03-30 21:59:51,422 [INFO] Executed echo successfully. Result: Hello from parameters!
+2025-03-30 22:03:03,917 [INFO] Added custom function: hello_world
+2025-03-30 22:03:16,874 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:03:16,874 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:03:16,874 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:03:27,457 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:03:27,457 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:03:27,457 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:10:26,777 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:10:26,777 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:10:26,777 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:10:47,212 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:10:47,212 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:10:47,212 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:11:13,574 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:11:13,574 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:11:13,574 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:12:59,472 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:12:59,472 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:12:59,472 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:12:59,472 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:12:59,472 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:12:59,472 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:12:59,473 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:12:59,474 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:12:59,497 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:12:59,497 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:12:59,497 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:14:15,813 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:14:15,813 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:14:15,813 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:16:23,562 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:18:07,148 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:18:14,881 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:20:32,123 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 22:20:45,746 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 22:20:53,668 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:21:28,397 [ERROR] Error adding function hello_world: unexpected character after line continuation character (<string>, line 1)
+2025-03-30 22:25:20,359 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:25:20,360 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:25:20,360 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:25:20,361 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:25:20,361 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:25:20,361 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:25:20,361 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:25:20,361 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:25:20,362 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:25:20,362 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:25:20,362 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:25:20,362 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:25:20,362 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:25:20,363 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:25:20,363 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:25:20,363 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:25:20,363 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:25:20,363 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:25:20,364 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:25:20,364 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:25:20,364 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:25:20,364 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:25:20,364 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:25:20,364 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:25:20,365 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:25:20,365 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:25:20,365 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:25:20,365 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:25:20,365 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:25:20,365 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:25:20,366 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:25:20,366 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:25:20,366 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:25:20,366 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:25:20,366 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:25:20,367 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:25:20,367 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:25:20,367 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:25:20,367 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:25:20,367 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:25:20,367 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:25:20,367 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:25:20,368 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:25:20,368 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:25:20,368 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:25:20,368 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:25:20,368 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 22:25:20,369 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 22:25:20,369 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 22:25:20,369 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 22:25:20,369 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 22:25:20,369 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 22:25:20,370 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 22:25:20,370 [WARNING] Add of existing embedding ID: echo
+2025-03-30 22:25:20,418 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:25:20,418 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:25:20,418 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:25:30,658 [INFO] Function echo requires 1 parameters.
+2025-03-30 22:25:30,659 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 22:25:30,659 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 22:28:22,045 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:28:30,069 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:31:00,773 [INFO] Retrieved function name: hello_world
+2025-03-30 22:31:00,773 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:37:01,504 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:37:13,457 [ERROR] Function hello_world not found in any registry
+2025-03-30 22:57:47,398 [ERROR] Function hello_world not found in any registry
+2025-03-30 23:31:26,253 [ERROR] Function hello_world not found in any registry
+2025-03-30 23:31:48,608 [INFO] Function echo requires 1 parameters.
+2025-03-30 23:31:48,609 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 23:31:48,609 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 23:31:56,815 [INFO] Function echo requires 1 parameters.
+2025-03-30 23:31:56,815 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 23:31:56,815 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:32:13,692 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:32:13,693 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:32:13,694 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:32:13,695 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:32:13,696 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:32:13,696 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:32:13,696 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:32:13,696 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:32:13,696 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:32:13,696 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:32:13,783 [INFO] Function echo requires 1 parameters.
+2025-03-30 23:32:13,783 [INFO] Executing default function: echo with args: [] and kwargs: {}
+2025-03-30 23:32:13,783 [ERROR] Error executing echo: echo() missing 1 required positional argument: 'message'
+2025-03-30 23:38:38,190 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:38:38,190 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:38:38,190 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:38:38,190 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:38:38,191 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:38:38,192 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:38:38,193 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:38:38,194 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:38:38,194 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:38:38,194 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:38:38,194 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:38:38,194 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:38:38,194 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:38:38,194 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:38:38,195 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:38:38,195 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:38:38,195 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:38:38,195 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:38:38,195 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:38:38,195 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:38:38,195 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:40:38,543 [INFO] Function open_calculator requires 0 parameters.
+2025-03-30 23:40:38,543 [INFO] Executing default function: open_calculator without parameters
+2025-03-30 23:40:39,057 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 23:40:49,760 [INFO] Function open_calculator requires 0 parameters.
+2025-03-30 23:40:49,761 [INFO] Executing default function: open_calculator without parameters
+2025-03-30 23:40:50,211 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 23:42:22,735 [INFO] Function open_calculator requires 0 parameters.
+2025-03-30 23:42:22,735 [INFO] Executing default function: open_calculator without parameters
+2025-03-30 23:42:23,177 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 23:42:41,884 [INFO] Function open_calculator requires 0 parameters.
+2025-03-30 23:42:41,885 [INFO] Executing default function: open_calculator without parameters
+2025-03-30 23:42:42,341 [INFO] Executed open_calculator successfully. Result: None
+2025-03-30 23:43:52,241 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:43:52,242 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:43:52,242 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:43:52,242 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:43:52,242 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:43:52,242 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:43:52,243 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:43:52,244 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:43:52,245 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:43:52,246 [WARNING] Add of existing embedding ID: open_chrome
+2025-03-30 23:43:52,247 [WARNING] Add of existing embedding ID: open_calculator
+2025-03-30 23:43:52,247 [WARNING] Add of existing embedding ID: open_notepad
+2025-03-30 23:43:52,247 [WARNING] Add of existing embedding ID: open_file_explorer
+2025-03-30 23:43:52,247 [WARNING] Add of existing embedding ID: get_cpu_usage
+2025-03-30 23:43:52,247 [WARNING] Add of existing embedding ID: get_ram_usage
+2025-03-30 23:43:52,247 [WARNING] Add of existing embedding ID: run_command
+2025-03-30 23:43:52,247 [WARNING] Add of existing embedding ID: echo
+2025-03-30 23:43:52,272 [INFO] Function get_cpu_usage requires 0 parameters.
+2025-03-30 23:43:52,272 [INFO] Executing default function: get_cpu_usage without parameters
+2025-03-30 23:43:52,273 [INFO] Executed get_cpu_usage successfully. Result: CPU Usage: 0.0%
+2025-03-30 23:44:09,201 [INFO] Function get_cpu_usage requires 0 parameters.
+2025-03-30 23:44:09,201 [INFO] Executing default function: get_cpu_usage without parameters
+2025-03-30 23:44:09,201 [INFO] Executed get_cpu_usage successfully. Result: CPU Usage: 3.7%

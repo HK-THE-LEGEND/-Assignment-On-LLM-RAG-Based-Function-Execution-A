@@ -1,0 +1,5 @@
+{
+    "function_name": "hello_world",
+    "description": "Prints Hello World",
+    "code": "def hello_world():\n    print('Hello, World!')\n"
+}
