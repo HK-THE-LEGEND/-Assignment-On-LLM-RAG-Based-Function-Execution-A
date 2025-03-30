@@ -13,23 +13,29 @@ REST API for function invocation
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-   
-**Install dependencies:**
+
+
+## Install dependencies:
 pip install -r requirements.txt
+## Usage
+Start the API Server
+uvicorn api_service:app --reload
+
+## pip install -r requirements.txt
 Usage
 Start the API Server
 uvicorn api_service:app --reload
-**Test with cURL**
+## Test with cURL
 curl -X POST "http://127.0.0.1:8000/execute" \
      -H "Content-Type: application/json" \
      -d "{\"prompt\": \"Open calculator\"}"
 
-**Expected Response**
+## Expected Response
 {
   "function": "open_calculator",
   "code": "Generated Python code for execution"
 }
-**Future Enhancements**
+## Future Enhancements
 Logging and monitoring for function executions
 
 Support for custom user-defined functions
