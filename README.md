@@ -8,13 +8,6 @@ LLM + RAG for function retrieval
 Dynamic Python code generation for function execution  
 REST API for function invocation  
 
-## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-
-
 ## Install dependencies:
 pip install -r requirements.txt
 ## Usage
